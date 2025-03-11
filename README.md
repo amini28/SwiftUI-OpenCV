@@ -43,3 +43,4 @@ This iOS application allows users to adjust the color temperature of a JPEG imag
 - `ImageProcessingView.swift` – SwiftUI view for user interaction.
 - `OpenCVWrapper.h/.mm` – Bridging code to call OpenCV functions.
 - `ImageProcessingViewModel.swift` – Core logic for applying temperature adjustments using OpenCV.
+- `SwiftUI-OpenCV-Bridging-Header.h` – Header file to enable Swift and Objective-C interoperability for OpenCV.
